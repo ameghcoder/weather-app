@@ -2,7 +2,7 @@
 Using OpenWeatherAPI for Live Weather Data.
 
 ## Preview link
-[WeatherWidget]()
+[WeatherWidget](https://ameghcoder.github.io/weather-app/)
 
 ## Channel link
 

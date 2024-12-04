@@ -6,14 +6,14 @@ const API_KEY = "38d18342722c698d0cd1b175d7aab074";
 const API = `https://api.openweathermap.org/data/2.5/weather?q=COUNTRY_NAME&APPID=${API_KEY}`
 
 const weatherImg = {   
-    "Atmosphere": "/public/assets/image/Atmosphere.jpg",    
-    "Haze": "/public/assets/image/Atmosphere.jpg",    
-    "Mist": "/public/assets/image/Atmosphere.jpg",    
-    "Clear": "/public/assets/image/Clear.jpg",
-    "Clouds": "/public/assets/image/Clouds.jpg",
-    "Drizzle": "/public/assets/image/Drizzle.jpg",
-    "Rain": "/public/assets/image/Rain.jpg",
-    "Snow": "/public/assets/image/Snow.jpg",
+    "Atmosphere": "./public/assets/image/Atmosphere.jpg",    
+    "Haze": "./public/assets/image/Atmosphere.jpg",    
+    "Mist": "./public/assets/image/Atmosphere.jpg",    
+    "Clear": "./public/assets/image/Clear.jpg",
+    "Clouds": "./public/assets/image/Clouds.jpg",
+    "Drizzle": "./public/assets/image/Drizzle.jpg",
+    "Rain": "./public/assets/image/Rain.jpg",
+    "Snow": "./public/assets/image/Snow.jpg",
     "Thunderstorm": "/public/assets/image/Thunderstorm.jpg"
 };
 
