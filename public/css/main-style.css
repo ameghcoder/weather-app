@@ -38,6 +38,7 @@ input, button{
 
 input::placeholder{
     color: var(--color);
+    opacity: 0.5;
 }
 
 
@@ -192,6 +193,6 @@ input::placeholder{
     background-size: cover;
 }
 
-.rain{
-    background-image: url('/public/assets/image/Rain.jpg');
+.Mist{
+    background-image: url('/public/assets/image/Atmosphere.jpg');
 }

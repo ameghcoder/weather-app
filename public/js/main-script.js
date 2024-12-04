@@ -49,8 +49,6 @@ const init = () => {
 
         getWeatherInfo(value, FINAL_API);
     })
-
-    getWeatherInfo("Jaipur", API.replace("COUNTRY_NAME", "Jaipur"))
 }
 
 document.readyState == "interactive" ? init() : document.addEventListener("DOMContentLoaded", () => init())
