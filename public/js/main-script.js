@@ -51,7 +51,7 @@ const init = () => {
     })
 
     // Call first time on page load
-    let FINAL_API = API.replace("jaipur", value);
+    let FINAL_API = API.replace("COUNTRY_NAME", "jaipur");
     getWeatherInfo('jaipur', FINAL_API);
 }
 
