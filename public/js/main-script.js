@@ -2,7 +2,7 @@ const $id = e => document.getElementById(e);
 const $ = e => document.querySelector(e);
 const $all = e => document.querySelectorAll(e);
 
-const API_KEY = "PASTE_YOUR_API_KEY_HERE";
+const API_KEY = "f4a52091cf7480ee2984b2f3f86e88cd"; // Replace Your API KEY With This one
 const API = `https://api.openweathermap.org/data/2.5/weather?q=COUNTRY_NAME&APPID=${API_KEY}`
 
 const weatherImg = {   
